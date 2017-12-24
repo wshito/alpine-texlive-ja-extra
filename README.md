@@ -4,7 +4,7 @@ Docker Hub: [wshito/alpine-texlive-ja-extra](https://hub.docker.com/r/wshito/alp
 
 Docker image by adding `make` on top of [paperist/alpine-texlive-ja](https://github.com/Paperist/docker-alpine-texlive-ja).
 
-### Contents:
+### Included in This Image:
 
 - `make` command
 - texlive-ja
